@@ -52,8 +52,8 @@
 
 ### 1.14
 
-[Front-end Dockerfile](./1.12/example-frontend/Dockerfile)  
-[Back-end Dockerfile](./1.13/example-backend/Dockerfile)  
+[Front-end Dockerfile](./1.12/example-frontend/)  
+[Back-end Dockerfile](./1.13/example-backend/)
 
 Front-end command: `docker run -p 3000:5000 front`  
 Back-end command: `docker run -p 3001:8000 back`  
