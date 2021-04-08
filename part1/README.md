@@ -52,11 +52,11 @@
 
 ### 1.14
 
-[Front-end Dockerfile](./1.12/Dockerfile)
-[Back-end Dockerfile](./1.13/Dockerfile)
+[Front-end Dockerfile](./1.12/Dockerfile)  
+[Back-end Dockerfile](./1.13/Dockerfile)  
 
-Front-end command: `docker run -p 3000:5000 front`
-Back-end command: `docker run -p 3001:8000 back`
+Front-end command: `docker run -p 3000:5000 front`  
+Back-end command: `docker run -p 3001:8000 back`  
 
 ### 1.15
 
